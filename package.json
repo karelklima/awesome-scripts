@@ -1,0 +1,9 @@
+{
+  "name": "awesome-scripts",
+  "version": "0.0.0",
+  "description": "awesome-scripts",
+  "main": "index.js",
+  "repository": "https://github.com/karelklima/awesome-scripts.git",
+  "author": "Karel Klima <karelklima@karelklima.com>",
+  "license": "MIT"
+}
